@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Host: https://voda51.ru
+
+Sitemap: https://voda51.ru/sitemap.xml
